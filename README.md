@@ -157,11 +157,23 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="kianmhz--gooserelayvpn"></div>
+
+### Kianmhz--GooseRelayVPN
+
+🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.5.0</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.5.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `GooseRelayVPN-client-v1.5.0-windows-amd64.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Saeed814/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-windows-amd64.zip) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.9</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.9)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.14</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.14)
 
 | File | Size | Download |
 |------|------|----------|
